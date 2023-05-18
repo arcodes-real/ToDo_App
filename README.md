@@ -1,2 +1,2 @@
 # ToDo_App
-Created with CodeSandbox
+Created a ToDoList App with Reactjs functional components and reactjs hooks.
